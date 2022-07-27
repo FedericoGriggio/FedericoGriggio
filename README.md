@@ -25,7 +25,7 @@
     </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>     
     </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
     </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
@@ -45,7 +45,7 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FedericoGriggio&show_icons=true&theme=gotham" alt="FedericoGriggio" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=FedericoGriggio&show_icons=true&theme=gotham" alt="FedericoGriggio" />
   
 <!--
 **FedericoGriggio/FedericoGriggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
