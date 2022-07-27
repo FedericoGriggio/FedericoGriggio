@@ -31,11 +31,11 @@
     </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a> <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="jupyter" width="35" height="40"/> </a>
     </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
         <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/> </a>
     </a> <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="40" height="40"/> </a>
+        <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="50" height="30"/> </a>
     </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
     </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
