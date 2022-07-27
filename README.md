@@ -1,4 +1,4 @@
-### Hi there, i am Federico Griggio. 👋
+### Hi there, i am Federico 👋
 
 🔭 I’m currently contribuiting crypto-analysis.
 
