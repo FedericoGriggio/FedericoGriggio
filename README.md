@@ -1,10 +1,10 @@
 ### Hi there, i am Federico 👋
 
-🔭 I’m currently contribuiting crypto-analysis.
+:rocket: I’m currently contribuiting :moneybag: [crypto-analysis](https://github.com/FedericoGriggio/crypto_analysis).
 
-🌱 I’m currently learning about geopandas.
+:open_book: I’m currently learning about [geopandas](https://geopandas.org/en/stable).
 
-📫 How to reach me: griggio.federico@gmail.com
+:mailbox_closed: How to reach me: | [email](mailto:griggio.federico@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federicogriggio)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -43,7 +43,7 @@
     </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
         <img src="https://media-exp2.licdn.com/dms/image/C560BAQFI3jAiQutmSw/company-logo_200_200/0/1614704116029?e=2147483647&v=beta&t=MWn2_Z6YZ-jkSZwiw_Ka1hT8j5rINPwxELSdYYe6GLU" alt="streamlit" width="40" height="40"/> </a> </p>
 
-<img align="right" alt="GIF" src="https://github.com/FedericoGriggio/FedericoGriggio/blob/master/cd.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/FedericoGriggio/FedericoGriggio/blob/main/cd.gif?raw=true" width="400" height="250" />
 
 📈 my github stats
 
