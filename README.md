@@ -43,7 +43,7 @@
     </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
         <img src="https://media-exp2.licdn.com/dms/image/C560BAQFI3jAiQutmSw/company-logo_200_200/0/1614704116029?e=2147483647&v=beta&t=MWn2_Z6YZ-jkSZwiw_Ka1hT8j5rINPwxELSdYYe6GLU" alt="streamlit" width="40" height="40"/> </a> </p>
 
-<img align="right" alt="GIF" src="https://github.com/FedericoGriggio/FedericoGriggio/blob/main/cd.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/FedericoGriggio/FedericoGriggio/blob/main/cd.gif?raw=true" width="300" height="210" />
 
 📈 my github stats
 
