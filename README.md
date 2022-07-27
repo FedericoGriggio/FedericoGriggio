@@ -10,9 +10,9 @@
 
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-<!--
-**FedericoGriggio/FedericoGriggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FedericoGriggio&show_icons=true&theme=gotham" alt="FedericoGriggio" />
+  
+<!--
+**FedericoGriggio/FedericoGriggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
