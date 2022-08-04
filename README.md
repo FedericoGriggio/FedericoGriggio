@@ -1,6 +1,8 @@
 ### Hi there, i am Federico 👋
 
-:rocket: I’m currently contribuiting :moneybag: [crypto-analysis](https://github.com/FedericoGriggio/crypto_analysis).
+:rocket: I’m currently contribuiting :
+* :moneybag: [crypto-analysis](https://github.com/FedericoGriggio/crypto_analysis).
+* :saxophone: [music-similarity](https://github.com/FedericoGriggio/music_similarity).
 
 :open_book: I’m currently learning about [geopandas](https://geopandas.org/en/stable).
 
