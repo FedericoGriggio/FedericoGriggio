@@ -5,7 +5,7 @@
 * :saxophone: [music-similarity](https://github.com/FedericoGriggio/music_similarity).
 * 🍿 [NLP-movie-reviews](https://github.com/sridhar211/NLPmoviereviews).
 
-:open_book: I’m currently learning about [geopandas](https://geopandas.org/en/stable).
+:open_book: I’m currently learning about [CLR](https://www.tensorflow.org/addons/tutorials/optimizers_cyclicallearningrate).
 
 :mailbox_closed: How to reach me: | [email](mailto:griggio.federico@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federicogriggio)
 
