@@ -3,6 +3,7 @@
 :rocket: I’m currently contribuiting :
 * :moneybag: [crypto-analysis](https://github.com/FedericoGriggio/crypto_analysis).
 * :saxophone: [music-similarity](https://github.com/FedericoGriggio/music_similarity).
+* :🍿: [NLP-movie-reviews](https://github.com/sridhar211/NLPmoviereviews).
 
 :open_book: I’m currently learning about [geopandas](https://geopandas.org/en/stable).
 
