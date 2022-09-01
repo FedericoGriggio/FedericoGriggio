@@ -1,7 +1,6 @@
 ### Hi there, i am Federico 👋
 
 :rocket: I’m currently working on :
-* :moneybag: [crypto-analysis](https://github.com/FedericoGriggio/crypto_analysis).
 * :saxophone: [music-similarity](https://github.com/FedericoGriggio/music_similarity).
 * 🍿 [NLP-movie-reviews](https://github.com/sridhar211/NLPmoviereviews).
 
