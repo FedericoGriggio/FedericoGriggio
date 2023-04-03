@@ -1,10 +1,11 @@
 ### Hi there, i am Federico 👋
 
-:rocket: I’m currently working on :
-* :saxophone: [music-similarity](https://github.com/FedericoGriggio/music_similarity).
+:rocket: Some recent articles and repos:
+* 🧪 [CLR and NLP](https://medium.com/@griggio.federico/apply-cyclical-learning-rate-on-recurrent-neural-networks-in-nlp-classification-tasks-59eef2e25279).
+* 🎷 [music similarity](https://medium.com/@griggio.federico/discover-new-songs-with-music-similarity-c650ca5f5bea).
 * 🍿 [NLP-movie-reviews](https://github.com/sridhar211/NLPmoviereviews).
 
-:open_book: I’m currently learning about [CLR](https://www.tensorflow.org/addons/tutorials/optimizers_cyclicallearningrate).
+:open_book: I’m currently learning about [Apache Spark](https://spark.apache.org/) and deep learning training optimization [CLR](https://www.tensorflow.org/addons/tutorials/optimizers_cyclicallearningrate).
 
 :mailbox_closed: How to reach me: | [email](mailto:griggio.federico@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federicogriggio)
 
@@ -22,14 +23,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
     </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>     
+    </a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="40" height="40"/>     
     </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>     
     </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a> <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
     </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a> <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
@@ -38,9 +41,7 @@
         <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/> </a>
     </a> <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="50" height="30"/> </a>
-    </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-    </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
         <img src="https://media-exp2.licdn.com/dms/image/C560BAQFI3jAiQutmSw/company-logo_200_200/0/1614704116029?e=2147483647&v=beta&t=MWn2_Z6YZ-jkSZwiw_Ka1hT8j5rINPwxELSdYYe6GLU" alt="streamlit" width="40" height="40"/> </a> </p>
