@@ -1,4 +1,4 @@
-### Hi there, i am Federico 👋
+### Hi there, I am Federico 👋
 
 :rocket: Some recent articles and repos:
 * 🧪 [CLR and NLP](https://medium.com/@griggio.federico/apply-cyclical-learning-rate-on-recurrent-neural-networks-in-nlp-classification-tasks-59eef2e25279).
