@@ -5,7 +5,7 @@
 * 🎷 [music similarity](https://medium.com/@griggio.federico/discover-new-songs-with-music-similarity-c650ca5f5bea).
 * 🍿 [NLP-movie-reviews](https://github.com/sridhar211/NLPmoviereviews).
 
-:open_book: I’m currently learning about [Apache Spark](https://spark.apache.org/) and deep learning training optimization [CLR](https://www.tensorflow.org/addons/tutorials/optimizers_cyclicallearningrate).
+:open_book: I’m currently learning about [Apache PySpark](https://spark.apache.org/) and deep learning training optimization [CLR](https://www.tensorflow.org/addons/tutorials/optimizers_cyclicallearningrate).
 
 :mailbox_closed: How to reach me: | [email](mailto:griggio.federico@gmail.com) | [LinkedIn](https://www.linkedin.com/in/federicogriggio)
 
